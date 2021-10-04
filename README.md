@@ -1,4 +1,4 @@
-# Mobile-Price-Range-Prediction
+# Mobile Price Range Prediction
 On the basis of the mobile Specification like Battery power, 3G enabled , wifi ,Bluetooth, Ram etc we are predicting Price range of the mobile this kind of prediction will help companies estimate price of mobiles to give tough competion to other mobile manufacturer also it will be usefull for Consumers to verify that they are paying best price for a mobile.
 # Dataset :
 Dataset has 2000 rows and 21 columns.
